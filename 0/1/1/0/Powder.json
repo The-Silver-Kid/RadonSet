@@ -1,0 +1,30 @@
+{
+  "type": "Ponii.UnMarriedPonii",
+  "properties": {
+    "Gender": true,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 0,
+    "name": "Powder Frostia",
+    "altName": "Powder",
+    "description": "\nRegular\nEarth\nAccedental Child of Radon and Galecia when he went to visit.",
+    "mother": "Galecia",
+    "father": "Shadow Radon",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\nCloud with snowflakes",
+    "imagepath": "PowderBlue.png",
+    "altimagepath": "null.png",
+    "colour": "Light blue",
+    "anotherColour": "Light blue",
+    "dna": {
+      "full": "Empty"
+    },
+    "birthday": {
+      "year": 2016,
+      "month": 1,
+      "date": 1
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "Ponii.MarriedPonii",
+  "properties": {
+    "Gender": false,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 1,
+    "name": "Steven Shuttleknight",
+    "altName": "Steven",
+    "description": "\nRegular\nPegasus\nDelivers Pizza",
+    "mother": "Speedometere",
+    "father": "Plizzia",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\nPizza Box",
+    "imagepath": "steven.png",
+    "altimagepath": "null.png",
+    "colour": "WIP",
+    "anotherColour": "WIP",
+    "dna": {
+      "full": "Empty"
+    },
+    "kids": [
+      "Morgan"
+    ],
+    "marriedTo": [
+      "Blitz Radon Shuttleknight"
+    ],
+    "birthday": {
+      "year": 1998,
+      "month": 2,
+      "date": 28
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "Ponii.UnMarriedPonii",
+  "properties": {
+    "Gender": false,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 0,
+    "name": "Maven RedHeart",
+    "altName": "Maven",
+    "description": "\nRegular\nUnicorn\nKnows almost as much as his mother about taking care of poniis",
+    "mother": "Nurse RedHeart",
+    "father": "Raygle",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\nRed cross",
+    "imagepath": "Maven.png",
+    "altimagepath": "null.png",
+    "colour": "Red",
+    "anotherColour": "Red",
+    "dna": {
+      "full": "2S2S000100FFFFFEFFC49D000014080FFUN1837001200000N1800000FF00000L01800000FF0000"
+    },
+    "birthday": {
+      "year": 2010,
+      "month": 1,
+      "date": 1
+    }
+  }
+}

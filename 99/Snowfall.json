@@ -1,0 +1,30 @@
+{
+  "type": "Ponii.UnMarriedPonii",
+  "properties": {
+    "Gender": true,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 0,
+    "name": "Snowfall Frostia",
+    "altName": "Snowy",
+    "description": "\nRegular\nPegasus\nHalf sister of Galecia\nRecently came back from living with the griffons for a while",
+    "mother": "Sierra",
+    "father": "Starliner",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\nUnknown",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "Blue",
+    "anotherColour": "Blue",
+    "dna": {
+      "full": "Empty"
+    },
+    "birthday": {
+      "year": 1994,
+      "month": 6,
+      "date": 13
+    }
+  }
+}

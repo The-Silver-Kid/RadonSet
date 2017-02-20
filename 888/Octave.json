@@ -1,0 +1,30 @@
+{
+  "type": "Ponii.UnMarriedPonii",
+  "properties": {
+    "Gender": true,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 0,
+    "name": "Agent V42666J",
+    "altName": "Octave",
+    "description": "\nRegular\nRefer to Nova.png for outfit and weapon\nPegasus\nMember of group of elite assassins known as Ghosts\nOctave is pronounced with a hard A sound",
+    "mother": "REDACTED",
+    "father": "REDACTED",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "Targeting reticle",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "Silver",
+    "anotherColour": "Silver",
+    "dna": {
+      "full": "Empty"
+    },
+    "birthday": {
+      "year": 1995,
+      "month": 1,
+      "date": 5
+    }
+  }
+}

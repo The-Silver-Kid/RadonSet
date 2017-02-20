@@ -1,0 +1,30 @@
+{
+  "type": "DragonPonii.UnMarriedPoniiDargon",
+  "properties": {
+    "Gender": false,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 0,
+    "name": "Gorlanth",
+    "altName": "Lance",
+    "description": "\nDargon\nPonii dragon\nExists",
+    "mother": "Unknown",
+    "father": "Unknown",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "Dark blue",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "Dark blue",
+    "anotherColour": "\nHasn't gotten it yet...Triangle beaker thing",
+    "dna": {
+      "full": "Empty"
+    },
+    "birthday": {
+      "year": 2010,
+      "month": 7,
+      "date": 12
+    }
+  }
+}

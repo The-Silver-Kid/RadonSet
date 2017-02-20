@@ -1,0 +1,39 @@
+{
+  "type": "Ponii.MarriedPonii",
+  "properties": {
+    "Gender": false,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 4,
+    "name": "Slanger Radon",
+    "altName": "Slanger",
+    "description": "\nRegular\nUnicorn\nSeems to dislike using his magic.",
+    "mother": "Photonia",
+    "father": "Tach\u00e6on",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\nA Purple and yellow diamond",
+    "imagepath": "slanger.png",
+    "altimagepath": "star.png",
+    "colour": "Purple and yellow",
+    "anotherColour": "Purple and yellow",
+    "dna": {
+      "full": "2S3H0002000000008000FF30000FFFF00UN1837200040001414000FFFFFF000Y01FFFF004000FF"
+    },
+    "kids": [
+      "Shadow",
+      "Shyne",
+      "Steve",
+      "Blitz"
+    ],
+    "marriedTo": [
+      "Charrie"
+    ],
+    "birthday": {
+      "year": 1944,
+      "month": 6,
+      "date": 2
+    }
+  }
+}

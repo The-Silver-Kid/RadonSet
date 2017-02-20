@@ -1,0 +1,30 @@
+{
+  "type": "Ponii.UnMarriedPonii",
+  "properties": {
+    "Gender": true,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 0,
+    "name": "Princess Cadence",
+    "altName": "Cadence",
+    "description": "\nRegular\nAlicorn\nPretty pink ponii princess",
+    "mother": "Queen Galaxia",
+    "father": "Unknown",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\nCrystal Heart",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "Pink as can be",
+    "anotherColour": "Yellow, purple, and pink",
+    "dna": {
+      "full": "Empty"
+    },
+    "birthday": {
+      "year": -9474,
+      "month": 6,
+      "date": 16
+    }
+  }
+}

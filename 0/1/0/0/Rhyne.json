@@ -1,0 +1,30 @@
+{
+  "type": "Ponii.UnMarriedPonii",
+  "properties": {
+    "Gender": true,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 0,
+    "name": "Rhyne Radon",
+    "altName": "Rhyne",
+    "description": "\nRegular\nUnicorn\nThird Ponii on the AJ-Radon Line.\nSpends most of her time with Jack.",
+    "mother": "Apple Jack",
+    "father": "Shadow Radon",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\nA cloud with Snowflakes",
+    "imagepath": "rhyne.png",
+    "altimagepath": "rhynemark.png",
+    "colour": "WIP",
+    "anotherColour": "WIP",
+    "dna": {
+      "full": "002S000100EAA000CA800010000DE00ADUN1839000000000I11F1F1FE0E0601B111F1F1FE0E060"
+    },
+    "birthday": {
+      "year": 2016,
+      "month": 10,
+      "date": 27
+    }
+  }
+}

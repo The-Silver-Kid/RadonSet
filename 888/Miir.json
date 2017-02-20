@@ -1,0 +1,30 @@
+{
+  "type": "DragonPonii.UnMarriedDargonPonii",
+  "properties": {
+    "Gender": false,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 0,
+    "name": "Miiryanth",
+    "altName": "Miir",
+    "description": "\nDargon\nDragon ponii\nStill young but takes care of his younger brother Gorlanth.",
+    "mother": "Unknown",
+    "father": "Unknown",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "Empty",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "Fiery orange-red colour",
+    "anotherColour": "Very dark gray and scale covered like the body, then the fiery orange-red for the tuft at the tip",
+    "dna": {
+      "full": "Empty"
+    },
+    "birthday": {
+      "year": 1996,
+      "month": 8,
+      "date": 4
+    }
+  }
+}

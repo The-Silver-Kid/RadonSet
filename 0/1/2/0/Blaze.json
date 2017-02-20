@@ -1,0 +1,30 @@
+{
+  "type": "FirePonii.UnMarriedFirePonii",
+  "properties": {
+    "Gender": true,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 0,
+    "name": "Blaze Oxydation",
+    "altName": "Blaze",
+    "description": "\nFire\nUnicorn\nCross Breed of a Ponii and Quilava\nWas originally a stallion but due to some events he is now a mare\nMane acts a little like fire.\nLives with Tree Radon at SAA.",
+    "mother": "Lav\u00e9",
+    "father": "UNKNOWN",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\nVolcanic storm type thing",
+    "imagepath": "blaze.png",
+    "altimagepath": "null.png",
+    "colour": "Deep Red",
+    "anotherColour": "Deep Red",
+    "dna": {
+      "full": "Empty"
+    },
+    "birthday": {
+      "year": 2001,
+      "month": 11,
+      "date": 19
+    }
+  }
+}

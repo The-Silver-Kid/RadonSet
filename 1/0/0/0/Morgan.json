@@ -1,0 +1,30 @@
+{
+  "type": "Ponii.UnMarriedPonii",
+  "properties": {
+    "Gender": true,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 0,
+    "name": "Morgan Shuttleknight",
+    "altName": "Emi",
+    "description": "\nRegular\nPegasus\nWIP",
+    "mother": "Blitz",
+    "father": "Steven",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\nWIP",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "WIP",
+    "anotherColour": "WIP",
+    "dna": {
+      "full": "Empty"
+    },
+    "birthday": {
+      "year": 2017,
+      "month": 3,
+      "date": 5
+    }
+  }
+}
