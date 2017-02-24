@@ -1,0 +1,35 @@
+{
+  "type": "Changeling.MarriedChangeling",
+  "properties": {
+    "Gender": true,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 1,
+    "name": "Chrysalis Dralx Radon",
+    "altName": "Chrissy",
+    "description": "\nChangeling Queen.",
+    "mother": "Laxra",
+    "father": "Zexro",
+    "flag": "",
+    "additionalInfo": "",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "Greenish Blue",
+    "anotherColour": "Greenish Blue",
+    "dna": {
+      "full": "Empty"
+    },
+    "kids": [
+      "Chance"
+    ],
+    "marriedTo": [
+      "Orange"
+    ],
+    "birthday": {
+      "year": 1967,
+      "month": 3,
+      "date": 15
+    }
+  }
+}

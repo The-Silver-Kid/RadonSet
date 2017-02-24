@@ -1,0 +1,35 @@
+{
+  "type": "Ponii.MarriedPonii",
+  "properties": {
+    "Gender": false,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 1,
+    "name": "Ryan (Orange) Radon",
+    "altName": "Orange",
+    "description": "\nWIP",
+    "mother": "Charrie",
+    "father": "Slanger",
+    "flag": "",
+    "additionalInfo": "\nSword",
+    "imagepath": "Orange.png",
+    "altimagepath": "sword.png",
+    "colour": "Orange and Yellow",
+    "anotherColour": "Orange and Yellow",
+    "dna": {
+      "full": "2S2S000070FF8000FFFF0030000FF0000UN183720402000141FF8000FFFF001B01FF8000FFFF00"
+    },
+    "kids": [
+      "Chance"
+    ],
+    "marriedTo": [
+      "Queen Chrysalis"
+    ],
+    "birthday": {
+      "year": 1996,
+      "month": 11,
+      "date": 20
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "type": "DragonPonii.UnMarriedPoniiDargon",
+  "type": "Hybrid.PoniiDragon.UnMarriedDragonPonii",
   "properties": {
     "Gender": false,
     "otherBoolean": false,
