@@ -1,36 +1,44 @@
 {
-  "type": "PlanePonii.MarriedPlane",
-  "properties": {
-    "Gender": true,
-    "otherBoolean": false,
-    "yaBoolean": false,
-    "state": 0,
-    "kidammount": 1,
-    "name": "Belle Carbone Stratoliner",
-    "altName": "Belle",
-    "description": "\nPlane\nAir Bus Plone\n",
-    "mother": "unknown",
-    "father": "unknown",
-    "DNA": "Empty",
-    "flag": "",
-    "additionalInfo": "\nAn 'A' with Aeroplane in it",
-    "imagepath": "null.png",
-    "altimagepath": "null.png",
-    "colour": "n\/a",
-    "anotherColour": "n\/a",
-    "dna": {
-      "full": "Empty"
-    },
-    "kids": [
-      "Morgan"
-    ],
-    "marriedTo": [
-      "Boewing"
-    ],
-    "birthday": {
-      "year": 1994,
-      "month": 8,
-      "date": 12
-    }
-  }
+	"type" : "PlanePonii.MarriedPlane",
+	"properties" : 
+	{
+		"Gender" : true,
+		"otherBoolean" : false,
+		"yaBoolean" : false,
+		"state" : 0,
+		"kidammount" : 1,
+		"name" : "Belle Carbone Stratoliner",
+		"altName" : "Belle",
+		"description" : "\nPlane\nAir Bus Plone\n",
+		"mother" : "unknown",
+		"father" : "unknown",
+		"DNA" : "Empty",
+		"flag" : "",
+		"additionalInfo" : "\nAn 'A' with Aeroplane in it",
+		"imagepath" : "null.png",
+		"altimagepath" : "null.png",
+		"colour" : "n\/a",
+		"anotherColour" : "n\/a",
+		"dna" : 
+		{
+			"full" : "Empty"
+		},
+
+		"kids" : 
+		[
+			"Morgan"
+		],
+
+		"marriedTo" : 
+		[
+			"Boewing Stratoliner"
+		],
+
+		"birthday" : 
+		{
+			"year" : 1994,
+			"month" : 8,
+			"date" : 12
+		}
+	}
 }

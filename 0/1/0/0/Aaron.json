@@ -1,30 +1,34 @@
 {
-  "type": "Ponii.UnMarriedPonii",
-  "properties": {
-    "Gender": false,
-    "otherBoolean": false,
-    "yaBoolean": false,
-    "state": 0,
-    "kidammount": 0,
-    "name": "Aaron Radon",
-    "altName": "Aaron",
-    "description": "\nRegular\nEarth\nFourth Ponii on the AJ-Radon Line.\n.WIP",
-    "mother": "Apple Jack",
-    "father": "Shadow Radon",
-    "DNA": "Empty",
-    "flag": "",
-    "additionalInfo": "\nA gear cog",
-    "imagepath": "null.png",
-    "altimagepath": "null.png",
-    "colour": "WIP",
-    "anotherColour": "WIP",
-    "dna": {
-      "full": "Empty"
-    },
-    "birthday": {
-      "year": 2017,
-      "month": 1,
-      "date": 20
-    }
-  }
+	"type" : "Ponii.UnMarriedPonii",
+	"properties" : 
+	{
+		"Gender" : false,
+		"otherBoolean" : false,
+		"yaBoolean" : false,
+		"state" : 0,
+		"kidammount" : 0,
+		"name" : "Aaron Radon",
+		"altName" : "Aaron",
+		"description" : "\nRegular\nEarth\nFourth Ponii on the AJ-Radon Line.\n.WIP",
+		"mother" : "Apple Jack Radon",
+		"father" : "Shadow Radon",
+		"DNA" : "Empty",
+		"flag" : "",
+		"additionalInfo" : "\nA gear cog",
+		"imagepath" : "null.png",
+		"altimagepath" : "null.png",
+		"colour" : "WIP",
+		"anotherColour" : "WIP",
+		"dna" : 
+		{
+			"full" : "Empty"
+		},
+
+		"birthday" : 
+		{
+			"year" : 2017,
+			"month" : 1,
+			"date" : 20
+		}
+	}
 }

@@ -1,30 +1,34 @@
 {
-  "type": "PlanePonii.UnMarriedPlane",
-  "properties": {
-    "Gender": true,
-    "otherBoolean": true,
-    "yaBoolean": false,
-    "state": 0,
-    "kidammount": 0,
-    "name": "Morgan Stratoliner",
-    "altName": "Morgan",
-    "description": "\nPlane\n...bff\nWIP",
-    "mother": "Belle",
-    "father": "Boewing",
-    "DNA": "Empty",
-    "flag": "\u2708",
-    "additionalInfo": "\nMissile and a aeroplane",
-    "imagepath": "null.png",
-    "altimagepath": "null.png",
-    "colour": "N\/A",
-    "anotherColour": "N\/A",
-    "dna": {
-      "full": "Empty"
-    },
-    "birthday": {
-      "year": 2017,
-      "month": 2,
-      "date": 20
-    }
-  }
+	"type" : "PlanePonii.UnMarriedPlane",
+	"properties" : 
+	{
+		"Gender" : true,
+		"otherBoolean" : true,
+		"yaBoolean" : false,
+		"state" : 0,
+		"kidammount" : 0,
+		"name" : "Morgan Stratoliner",
+		"altName" : "Morgan",
+		"description" : "\nPlane\n...bff\nWIP",
+		"mother" : "Belle Carbone Stratoliner",
+		"father" : "Boewing Stratoliner",
+		"DNA" : "Empty",
+		"flag" : "\u2708",
+		"additionalInfo" : "\nMissile and a aeroplane",
+		"imagepath" : "null.png",
+		"altimagepath" : "null.png",
+		"colour" : "N\/A",
+		"anotherColour" : "N\/A",
+		"dna" : 
+		{
+			"full" : "Empty"
+		},
+
+		"birthday" : 
+		{
+			"year" : 2017,
+			"month" : 2,
+			"date" : 20
+		}
+	}
 }

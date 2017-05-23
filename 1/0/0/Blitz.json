@@ -1,36 +1,44 @@
 {
-  "type": "PlanePonii.MarriedPlane",
-  "properties": {
-    "Gender": true,
-    "otherBoolean": true,
-    "yaBoolean": false,
-    "state": 0,
-    "kidammount": 1,
-    "name": "Blitz Radon Shuttleknight",
-    "altName": "Blitz",
-    "description": "\nPlane\nStandard\nChanged to be a plane ponii by her brother Radon.",
-    "mother": "Charrie",
-    "father": "Slanger",
-    "DNA": "Empty",
-    "flag": "",
-    "additionalInfo": "\n\u2708",
-    "imagepath": "blitz.png",
-    "altimagepath": "null.png",
-    "colour": "Copper Colour",
-    "anotherColour": "Copper Colour",
-    "dna": {
-      "full": "2S2S0000204F4F4F800000000019F4F4FUN1837000020001417F2F2F9F4F4F1B107F3FCC004CB2"
-    },
-    "kids": [
-      "Morgan"
-    ],
-    "marriedTo": [
-      "Steven Shuttleknight"
-    ],
-    "birthday": {
-      "year": 1997,
-      "month": 12,
-      "date": 12
-    }
-  }
+	"type" : "PlanePonii.MarriedPlane",
+	"properties" : 
+	{
+		"Gender" : true,
+		"otherBoolean" : true,
+		"yaBoolean" : false,
+		"state" : 0,
+		"kidammount" : 1,
+		"name" : "Blitz Radon Shuttleknight",
+		"altName" : "Blitz",
+		"description" : "\nPlane\nStandard\nChanged to be a plane ponii by her brother Radon.",
+		"mother" : "Charrie (Firefly) Sychace Radon",
+		"father" : "Slanger Radon",
+		"DNA" : "Empty",
+		"flag" : "",
+		"additionalInfo" : "\n\u2708",
+		"imagepath" : "blitz.png",
+		"altimagepath" : "null.png",
+		"colour" : "Copper Colour",
+		"anotherColour" : "Copper Colour",
+		"dna" : 
+		{
+			"full" : "2S2S0000204F4F4F800000000019F4F4FUN1837000020001417F2F2F9F4F4F1B107F3FCC004CB2"
+		},
+
+		"kids" : 
+		[
+			"Morgan"
+		],
+
+		"marriedTo" : 
+		[
+			"Steven Shuttleknight"
+		],
+
+		"birthday" : 
+		{
+			"year" : 1997,
+			"month" : 12,
+			"date" : 12
+		}
+	}
 }
