@@ -1,28 +1,32 @@
 {
-  "type": "Hybrid.ChangelingPonii.UnMarriedChangelingPonii",
-  "properties": {
-    "Gender": false,
-    "otherBoolean": false,
-    "yaBoolean": false,
-    "state": 0,
-    "kidammount": 0,
-    "name": "Chance Radon",
-    "altName": "Chance",
-    "description": "\nWIP",
-    "mother": "Chrysalis",
-    "father": "Orange",
-    "flag": "",
-    "imagepath": "null.png",
-    "altimagepath": "null.png",
-    "colour": "WIP",
-    "anotherColour": "WIP",
-    "dna": {
-      "full": "Empty"
-    },
-    "birthday": {
-      "year": 2009,
-      "month": 4,
-      "date": 30
-    }
-  }
+	"type" : "Hybrid.ChangelingPonii.UnMarriedChangelingPonii",
+	"properties" : 
+	{
+		"Gender" : false,
+		"otherBoolean" : false,
+		"yaBoolean" : false,
+		"state" : 0,
+		"kidammount" : 0,
+		"name" : "Chance Radon",
+		"altName" : "Chance",
+		"description" : "\nWIP",
+		"mother" : "Chrysalis Dralx Radon",
+		"father" : "Orange",
+		"flag" : "",
+		"imagepath" : "null.png",
+		"altimagepath" : "null.png",
+		"colour" : "WIP",
+		"anotherColour" : "WIP",
+		"dna" : 
+		{
+			"full" : "Empty"
+		},
+
+		"birthday" : 
+		{
+			"year" : 2009,
+			"month" : 4,
+			"date" : 30
+		}
+	}
 }
