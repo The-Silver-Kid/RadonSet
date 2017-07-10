@@ -1,0 +1,30 @@
+{
+  "type": "Ponii.UnMarriedPonii",
+  "properties": {
+    "Gender": false,
+    "otherBoolean": true,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 0,
+    "name": "Night Falcon",
+    "altName": "Falcon",
+    "description": "\nWIP",
+    "mother": "Night Glider",
+    "father": "Shadow Radon",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\nWIP",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "WIP",
+    "anotherColour": "WIP",
+    "dna": {
+      "full": "Empty"
+    },
+    "birthday": {
+      "year": 2018,
+      "month": 1,
+      "date": 20
+    }
+  }
+}

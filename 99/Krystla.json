@@ -1,0 +1,36 @@
+{
+  "type": "Ponii.MarriedPonii",
+  "properties": {
+    "Gender": true,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 1,
+    "name": "Krystla Frostia",
+    "altName": "Krystla",
+    "description": "\nRegular\nWIP",
+    "mother": "Iyrica",
+    "father": "Mekr\u00e1n",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\nWIP",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "WIP",
+    "anotherColour": "WIP",
+    "dna": {
+      "full": "Empty"
+    },
+    "kids": [
+      "Galecia"
+    ],
+    "marriedTo": [
+      "Starliner"
+    ],
+    "birthday": {
+      "year": 1954,
+      "month": 2,
+      "date": 3
+    }
+  }
+}

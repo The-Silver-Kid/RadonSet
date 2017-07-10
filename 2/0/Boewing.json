@@ -1,0 +1,36 @@
+{
+  "type": "PlanePonii.MarriedPlane",
+  "properties": {
+    "Gender": false,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 1,
+    "name": "Boewing Stratoliner",
+    "altName": "Boewing",
+    "description": "\nPlane\nF16 fighter jet plone\nUsually has a bandana around mouth when flying that has the shark face design thing on it",
+    "mother": "Unknown",
+    "father": "Unknown",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "Missile",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "N\/A",
+    "anotherColour": "N\/A",
+    "dna": {
+      "full": "Empty"
+    },
+    "kids": [
+      "Morgan"
+    ],
+    "marriedTo": [
+      "Belle"
+    ],
+    "birthday": {
+      "year": 1994,
+      "month": 7,
+      "date": 13
+    }
+  }
+}

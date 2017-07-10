@@ -1,0 +1,36 @@
+{
+  "type": "Ponii.UnMarriedPoniiWithKids",
+  "properties": {
+    "Gender": true,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 1,
+    "name": "Nurse RedHeart",
+    "altName": "RedHeart",
+    "description": "\nRegular\nEarth\nShe's a nurse.",
+    "mother": "?",
+    "father": "?",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\nRed cross with hearts",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "Light pink",
+    "anotherColour": "Light pink",
+    "dna": {
+      "full": "Empty"
+    },
+	"kids": [
+      "Maven"
+    ],
+    "with": [
+      "Raygle"
+    ],
+    "birthday": {
+      "year": 1982,
+      "month": 8,
+      "date": 9
+    }
+  }
+}

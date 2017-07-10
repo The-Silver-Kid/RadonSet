@@ -1,0 +1,47 @@
+{
+	"type" : "Ponii.MarriedPonii",
+	"properties" : 
+	{
+		"Gender" : true,
+		"otherBoolean" : false,
+		"yaBoolean" : false,
+		"state" : 0,
+		"kidammount" : 4,
+		"name" : "Charrie (Firefly) Sychace Radon",
+		"altName" : "Charrie",
+		"description" : "\nRegular\nPegasus\nOld but cares allot about every ponii",
+		"mother" : "Keri",
+		"father" : "Craider",
+		"DNA" : "Empty",
+		"flag" : "",
+		"additionalInfo" : "\nBlack Outlined White Thunderbolt",
+		"imagepath" : "charrie.png",
+		"altimagepath" : "null.png",
+		"colour" : "Pinkish brown",
+		"anotherColour" : "Pinkish brown",
+		"dna" : 
+		{
+			"full" : "Empty"
+		},
+
+		"kids" : 
+		[
+			"Shadow",
+			"Shyne",
+			"Steve",
+			"Blitz"
+		],
+
+		"marriedTo" : 
+		[
+			"Slanger Radon"
+		],
+
+		"birthday" : 
+		{
+			"year" : 1948,
+			"month" : 7,
+			"date" : 13
+		}
+	}
+}

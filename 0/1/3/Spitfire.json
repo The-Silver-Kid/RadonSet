@@ -1,0 +1,36 @@
+{
+  "type": "Ponii.UnMarriedPoniiWithKids",
+  "properties": {
+    "Gender": true,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 1,
+    "name": "Spitfire Aerocaster",
+    "altName": "Spitfire",
+    "description": "\nWonderbolts Captain\nIts Spitfire.",
+    "mother": "Straton",
+    "father": "Stormy Flare",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\nThe fire thing",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "WIP",
+    "anotherColour": "WIP",
+    "dna": {
+      "full": "Empty"
+    },
+	"kids": [
+      "Skyra"
+    ],
+    "with": [
+      "Shadow Radon"
+    ],
+    "birthday": {
+      "year": 1991,
+      "month": 8,
+      "date": 13
+    }
+  }
+}

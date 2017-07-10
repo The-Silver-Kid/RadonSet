@@ -1,0 +1,30 @@
+{
+  "type": "MachinePonii.UnMarriedMachinePonii",
+  "properties": {
+    "Gender": false,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 0,
+    "name": "D105",
+    "altName": "Bit",
+    "description": "\nRegular\nKid of C4 and C5\nUsually found playing with Emi",
+    "mother": "C523",
+    "father": "C418",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\nD105",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "Blue and red",
+    "anotherColour": "Blue and red",
+    "dna": {
+      "full": "Empty"
+    },
+    "birthday": {
+      "year": 2015,
+      "month": 6,
+      "date": 4
+    }
+  }
+}
