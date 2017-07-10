@@ -1,41 +1,46 @@
 {
-  "type": "Ponii.MarriedPonii",
-  "properties": {
-    "Gender": true,
-    "otherBoolean": false,
-    "yaBoolean": false,
-    "state": 0,
-    "kidammount": 6,
-    "name": "Apple Jack Radon",
-    "altName": "AJ",
-    "description": "\nRegular\nEarth\nIts Apple Jack... y'all know her",
-    "mother": "?",
-    "father": "?",
-    "DNA": "Empty",
-    "flag": "",
-    "additionalInfo": "\nThree red apples",
-    "imagepath": "AJ.png",
-    "altimagepath": "AJMark.png",
-    "colour": "Pale Yellow",
-    "anotherColour": "Pale Yellow",
-    "dna": {
-      "full": "2S2S000000FEA100FEB19E0040110BF00UN1837000100000I0FAFE73FF7FFF0H107F3FCC004CB2"
-    },
-    "kids": [
-      "Tree Lighting",
-      "Shadow Jack",
-      "Rhyne",
-      "Aaron",
-      "Nhyte",
-      "Thorn"
-    ],
-    "marriedTo": [
-      "Shadow Radon"
-    ],
-    "birthday": {
-      "year": 1993,
-      "month": 4,
-      "date": 3
-    }
-  }
+	"type" : "Ponii.MarriedPonii",
+	"properties" : 
+	{
+		"Gender" : true,
+		"otherBoolean" : false,
+		"yaBoolean" : false,
+		"state" : 0,
+		"kidammount" : 6,
+		"name" : "Apple Jack Radon",
+		"altName" : "AJ",
+		"description" : "\nRegular\nEarth\nStatus Dead",
+		"mother" : "?",
+		"father" : "?",
+		"DNA" : "Empty",
+		"flag" : "",
+		"additionalInfo" : "\nThree red apples",
+		"imagepath" : "AJ.png",
+		"altimagepath" : "AJMark.png",
+		"colour" : "Pale Yellow",
+		"anotherColour" : "Pale Yellow",
+		"dna" : 
+		{
+			"full" : "2S2S000000FEA100FEB19E0040110BF00UN1837000100000I0FAFE73FF7FFF0H107F3FCC004CB2"
+		},
+
+		"kids" : 
+		[
+			"Tree Lighting",
+			"Shadow Jack",
+			"Rhyne"
+		],
+
+		"marriedTo" : 
+		[
+			"Shadow Radon"
+		],
+
+		"birthday" : 
+		{
+			"year" : 1993,
+			"month" : 4,
+			"date" : 3
+		}
+	}
 }

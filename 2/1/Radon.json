@@ -9,14 +9,14 @@
 		"kidammount" : 10,
 		"name" : "Shadow Radon",
 		"altName" : "Radon",
-		"description" : "\nRegular\nUnicorn\nYellow Thunderbolt across underside\nYellow Thunderbolts around hooves.\nRules equestria with AJ",
+		"description" : "\nRegular\nUnicorn\nCaptain of the Equestria armies.",
 		"mother" : "Charrie (Firefly) Sychace Radon",
 		"father" : "Slanger Radon",
 		"DNA" : "Empty",
 		"flag" : "",
 		"additionalInfo" : "\nBlack Thundercloud with a yellow thunderbolt coming from it",
-		"imagepath" : "Radon.png",
-		"altimagepath" : "kloud.png",
+		"imagepath" : "null.png",
+		"altimagepath" : "null.png",
 		"colour" : "Yellow and Black",
 		"anotherColour" : "Yellow and Black",
 		"dna" : 
@@ -28,36 +28,19 @@
 		[
 			"Tree Lighting",
 			"Shadow Jack",
-			"Rhyne",
-			"Aaron",
-			"Nhyte",
-			"Thorn",
-			"Powder",
-			"Glacier",
-			"Icicle",
-			"Skyra",
-			"Night Falcon"
+			"Rhyne"
 		],
 
 		"with" : 
 		[
 			"Apple Jack",
 			"Apple Jack",
-			"Apple Jack",
-			"Apple Jack",
-			"Apple Jack",
-			"Apple Jack",
-			"Galecia Frostia",
-			"Galecia Frostia",
-			"Galecia Frostia",
-			"Spitfire Aerocaster",
-			"Night Glider"
+			"Apple Jack"
 		],
 
 		"marriedTo" : 
 		[
-			"Apple Jack",
-			"Galecia Frostia"
+			"Apple Jack"
 		],
 
 		"birthday" : 
