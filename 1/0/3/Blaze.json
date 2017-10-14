@@ -1,0 +1,43 @@
+{
+	"type" : "FirePonii.MarriedFirePonii",
+	"properties" : 
+	{
+		"Gender" : false,
+		"otherBoolean" : false,
+		"yaBoolean" : false,
+		"state" : 0,
+		"kidammount" : 5,
+		"name" : "Blaze Oxydation",
+		"altName" : "Blaze",
+		"description" : "\nFire\nUnicorn\nWIP",
+		"mother" : "Lav\u00e9",
+		"father" : "Shadow Radon",
+		"DNA" : "Empty",
+		"flag" : "",
+		"additionalInfo" : "\nVolcanic storm type thing",
+		"imagepath" : "blaze.png",
+		"altimagepath" : "null.png",
+		"colour" : "Deep Red",
+		"anotherColour" : "Deep Red",
+		"dna" : 
+		{
+			"full" : "Empty"
+		},
+		"kids": [
+  		    "Green",
+  	    	"Blue",
+  	    	"Orange",
+  	    	"Yellow",
+  	    	"Purple"
+    ],
+		  "marriedTo": [
+	 	     "Tree Lightning Radon"
+ 	   ],
+		"birthday" : 
+		{
+			"year" : 2001,
+			"month" : 11,
+			"date" : 19
+		}
+	}
+}

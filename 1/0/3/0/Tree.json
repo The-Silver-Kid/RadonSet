@@ -1,0 +1,44 @@
+{
+	"type" : "Ponii.MarriedPonii",
+	"properties" : 
+	{
+		"Gender" : true,
+		"otherBoolean" : true,
+		"yaBoolean" : false,
+		"state" : 0,
+		"kidammount" : 5,
+		"name" : "Tree Lighting Radon",
+		"altName" : "Tree",
+		"description" : "\nRegular\nEarth\nShares a body with the changeling queen Zefix",
+		"mother" : "Apple Jack Radon",
+		"father" : "Shadow Radon",
+		"DNA" : "Empty",
+		"flag" : "",
+		"additionalInfo" : "\nApples with lightning bolt behind",
+		"imagepath" : "lightning.png",
+		"altimagepath" : "lightningmark.png",
+		"colour" : "Little more yellow then AJ's",
+		"anotherColour" : "Slightly darker orange then AJ",
+		"dna" : 
+		{
+			"full" : "003H000000FDA00000000003B0188FF00UN1837002000000I1FAFE730000001B107F3FCC004CB2"
+		},
+		 "kids": [
+      "Green",
+      "Blue",
+      "Oranage",
+      "Yellow",
+      "Red"
+    ],
+    "marriedTo": [
+      "Blaze Oxydation"
+    ],
+
+		"birthday" : 
+		{
+			"year" : 2011,
+			"month" : 9,
+			"date" : 11
+		}
+	}
+}

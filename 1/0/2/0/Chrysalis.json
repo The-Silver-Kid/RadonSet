@@ -1,0 +1,44 @@
+{
+	"type" : "Changeling.MarriedChangeling",
+	"properties" : 
+	{
+		"Gender" : true,
+		"otherBoolean" : false,
+		"yaBoolean" : false,
+		"state" : 0,
+		"kidammount" : 2,
+		"name" : "Chrysalis Dralx Radon",
+		"altName" : "Chrysalis",
+		"description" : "\nChangeling Queen.\nWIP",
+		"mother" : "Laxra",
+		"father" : "Zexro",
+		"flag" : "",
+		"additionalInfo" : "",
+		"imagepath" : "null.png",
+		"altimagepath" : "null.png",
+		"colour" : "Greenish Blue",
+		"anotherColour" : "Greenish Blue",
+		"dna" : 
+		{
+			"full" : "Empty"
+		},
+
+		"kids" : 
+		[
+			"Zxrax",
+			"Zefix"
+		],
+
+		"marriedTo" : 
+		[
+			"Ryan (Orange) Radon"
+		],
+
+		"birthday" : 
+		{
+			"year" : 1967,
+			"month" : 3,
+			"date" : 15
+		}
+	}
+}

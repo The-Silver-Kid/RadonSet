@@ -1,0 +1,30 @@
+{
+  "type": "Ponii.UnMarriedPonii",
+  "properties": {
+    "Gender": false,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 0,
+    "name": "Riker Radon",
+    "altName": "Riker",
+    "description": "\nRegular\nUnicorn\nWIP",
+    "mother": "Nurse RedHeart",
+    "father": "Shadow Radon",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\nWIP",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "White",
+    "anotherColour": "Red",
+    "dna": {
+      "full": ""
+    },
+    "birthday": {
+      "year": 2010,
+      "month": 1,
+      "date": 1
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+	"type" : "Ponii.MarriedPoniiWithOtherKids",
+	"properties" : 
+	{
+		"Gender" : false,
+		"otherBoolean" : true,
+		"yaBoolean" : false,
+		"state" : 0,
+		"kidammount" : 10,
+		"name" : "Shadow Radon",
+		"altName" : "Radon",
+		"description" : "\nRegular\nUnicorn\nYellow Thunderbolt across underside\nYellow Thunderbolts around hooves.\nRules equestria with AJ",
+		"mother" : "Charrie (Firefly) Sychace Radon",
+		"father" : "Slanger Radon",
+		"DNA" : "Empty",
+		"flag" : "",
+		"additionalInfo" : "\nBlack Thundercloud with a yellow thunderbolt coming from it",
+		"imagepath" : "Radon.png",
+		"altimagepath" : "kloud.png",
+		"colour" : "Yellow and Black",
+		"anotherColour" : "Yellow and Black",
+		"dna" : 
+		{
+			"full" : "3037000200000000FEFF0003001FFFF00TM183720202000141000000FFFF001B107F3FCC004CB2"
+		},
+
+		"kids" : 
+		[
+			"Tree Lighting",
+			"Shadow Jack",
+			"Rhyne",
+			"Aaron",
+			"Nhyte",
+			"Thorn",
+			"Un-named",
+			"Powder",
+			"Glacier",
+			"Icicle",
+			"Un-named",
+			"Skyra",
+			"Night Falcon"
+		],
+
+		"with" : 
+		[
+			"Apple Jack",
+			"Apple Jack",
+			"Apple Jack",
+			"Apple Jack",
+			"Apple Jack",
+			"Apple Jack",
+			"Apple Jack",
+			"Galecia Frostia",
+			"Galecia Frostia",
+			"Galecia Frostia",
+			"Galecia Frostia",
+			"Spitfire Aerocaster",
+			"Night Glider"
+		],
+
+		"marriedTo" : 
+		[
+			"Apple Jack",
+			"Galecia Frostia"
+		],
+
+		"birthday" : 
+		{
+			"year" : 1993,
+			"month" : 7,
+			"date" : 20
+		}
+	}
+}
