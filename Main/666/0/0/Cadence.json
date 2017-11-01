@@ -1,14 +1,14 @@
 {
-  "type": "Ponii.UnMarriedPonii",
+  "type": "Ponii.UnMarriedPoniiWithKids",
   "properties": {
     "Gender": true,
     "otherBoolean": false,
     "yaBoolean": false,
     "state": 0,
-    "kidammount": 0,
+    "kidammount": 1,
     "name": "Princess Cadence",
     "altName": "Cadence",
-    "description": "\nRegular\nAlicorn\nPretty pink ponii princess",
+    "description": "\nRegular\nAlicorn\nPretty pink ponii princess\nHalf demon",
     "mother": "Queen Galaxia",
     "father": "Unknown",
     "DNA": "Empty",
@@ -21,6 +21,12 @@
     "dna": {
       "full": "Empty"
     },
+    "kids": [
+      "Aerial Darkstar"
+    ],
+    "with": [
+      "Cosmos Darkstar"
+    ],
     "birthday": {
       "year": -9474,
       "month": 6,

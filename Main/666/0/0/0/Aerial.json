@@ -1,0 +1,30 @@
+{
+  "type": "Ponii.UnMarriedPonii",
+  "properties": {
+    "Gender": true,
+    "otherBoolean": true,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 0,
+    "name": "Aerial Darkstar",
+    "altName": "Aerial",
+    "description": "\nRegular\nBat Pony\nIs half demon \nLives in the old castle in Everfree",
+    "mother": "Cadence",
+    "father": "Cosmos Darkstar",
+    "DNA": "Empty",
+    "flag": "",
+    "additionalInfo": "\n",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "Bright Pink",
+    "anotherColour": "Rainbow sparkles",
+    "dna": {
+      "full": ""
+    },
+    "birthday": {
+      "year": 2013,
+      "month": 6,
+      "date": 2
+    }
+  }
+}

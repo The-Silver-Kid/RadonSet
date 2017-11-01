@@ -1,14 +1,14 @@
 {
-  "type": "Ponii.UnMarriedPonii",
+  "type": "Ponii.UnMarriedPoniiWithKids",
   "properties": {
     "Gender": false,
     "otherBoolean": true,
     "yaBoolean": false,
     "state": 0,
-    "kidammount": 0,
+    "kidammount": 1,
     "name": "Cosmos Darkstar",
     "altName": "Cosmos",
-    "description": "\nRegular\nZebra pegasus\nIs half demon\nLives in the old castle in Everfree",
+    "description": "\nRegular\nZebra pegasus\nIs half demon (Hence the bat wings)\nLives in the old castle in Everfree",
     "mother": "Nightmare Moon",
     "father": "King of Hell",
     "DNA": "Empty",
@@ -21,6 +21,12 @@
     "dna": {
       "full": "3B240J41004E4E4E6B6B6B02000B49600UN1837205030001Q05F6366FF7FFF00107F3FCC004CB2"
     },
+    "kids": [
+      "Aerial Darkstar"
+    ],
+    "with": [
+      "Cadence"
+    ],
     "birthday": {
       "year": 1164,
       "month": 8,
