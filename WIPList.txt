@@ -1,0 +1,97 @@
+Entities that need work done:
+2 : Shyne
+5 : Aaron
+7 : Nhyte
+8 : Rhyne
+9 : Thorn
+12 : Glacier
+13 : Icy
+17 : Spitfire
+18 : Skyra
+19 : Glider
+20 : Falcon
+21 : Orange
+23 : Chance
+24 : Steven
+26 : Emi
+29 : Morgan
+33 : Byte
+44 : Krystla
+
+1 = No Alternate Image
+2 = No Main Image
+3 = No images
+Entitiis that have no image:
+1 : Charrie 1
+2 : Shyne 3
+5 : Aaron 3
+7 : Nhyte 3
+9 : Thorn 3
+11 : Galecia 1
+12 : Glacier 3
+13 : Icy 3
+14 : Powder 1
+15 : Lave 3
+16 : Blaze 1
+17 : Spitfire 3
+18 : Skyra 1
+19 : Glider 3
+20 : Falcon 3
+22 : Chrissy 3
+23 : Chance 3
+24 : Steven 1
+25 : Blitz 1
+26 : Emi 3
+27 : Boewing 3
+28 : Belle 3
+29 : Morgan 3
+30 : C4 1
+31 : C5 1
+32 : Bit 3
+33 : Byte 3
+34 : RedHeart 3
+35 : Maven 1
+36 : Nighthawk 3
+37 : Cadence 3
+38 : Cosmos 3
+39 : Lance 3
+40 : Hrodmar 3
+41 : Miir 3
+42 : Octave 3
+43 : Shade 2
+44 : Krystla 3
+45 : Snowy 3
+
+Entities without DNA:
+1 : Charrie
+2 : Shyne
+5 : Aaron
+7 : Nhyte
+9 : Thorn
+12 : Glacier
+13 : Icy
+14 : Powder
+15 : Lave
+16 : Blaze
+17 : Spitfire
+19 : Glider
+20 : Falcon
+22 : Chrissy
+23 : Chance
+24 : Steven
+26 : Emi
+27 : Boewing
+28 : Belle
+29 : Morgan
+31 : C5
+32 : Bit
+33 : Byte
+34 : RedHeart
+36 : Nighthawk
+37 : Cadence
+39 : Lance
+40 : Hrodmar
+41 : Miir
+42 : Octave
+44 : Krystla
+45 : Snowy
