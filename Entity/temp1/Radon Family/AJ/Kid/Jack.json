@@ -1,0 +1,34 @@
+{
+	"type" : "Ponii.UnMarriedPonii",
+	"properties" : 
+	{
+		"Gender" : false,
+		"otherBoolean" : false,
+		"yaBoolean" : false,
+		"state" : 0,
+		"kidammount" : 0,
+		"name" : "Shadow Jack Radon",
+		"altName" : "Jack",
+		"description" : "\nRegular\nUnicorn\nSecond Ponii on the AJ-Radon Line.\nShares dimensional powers with his sister Rhyne while fused.",
+		"mother" : "Apple Jack Radon",
+		"father" : "Shadow Radon",
+		"DNA" : "Empty",
+		"flag" : "",
+		"additionalInfo" : "\nA cloud with lightning",
+		"imagepath" : "jack.png",
+		"altimagepath" : "jackmark.png",
+		"colour" : "Pale White and yellow",
+		"anotherColour" : "Pale White and yellow",
+		"dna" : 
+		{
+			"full" : "002S000100FDA000FDA000000000FBE00UN1839000220001412F2F2FF9FD721B112F2F2FF9FD72"
+		},
+
+		"birthday" : 
+		{
+			"year" : 2015,
+			"month" : 12,
+			"date" : 25
+		}
+	}
+}

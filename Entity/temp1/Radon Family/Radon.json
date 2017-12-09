@@ -6,16 +6,16 @@
 		"otherBoolean" : true,
 		"yaBoolean" : false,
 		"state" : 0,
-		"kidammount" : 13,
+		"kidammount" : 9,
 		"name" : "Shadow Radon",
-		"altName" : "Radon",
-		"description" : "\nRegular\nUnicorn\nYellow Thunderbolt across underside\nYellow Thunderbolts around hooves.\nRules equestria with AJ",
+		"altName" : "Orange-Eye",
+		"description" : "\nRegular\nUnicorn\nAfter the death of Apple Jack and Galecia he sent his world into chaos killing almost everypony.\nNow lives in the dream world with his kids exploring the multiverse.\nHis kids with AJ don't get along with his kids with Galecia.",
 		"mother" : "Charrie (Firefly) Sychace Radon",
 		"father" : "Slanger Radon",
 		"DNA" : "Empty",
 		"flag" : "",
 		"additionalInfo" : "\nBlack Thundercloud with a yellow thunderbolt coming from it",
-		"imagepath" : "Radon.png",
+		"imagepath" : "null.png",
 		"altimagepath" : "kloud.png",
 		"colour" : "Yellow and Black",
 		"anotherColour" : "Yellow and Black",
@@ -32,13 +32,9 @@
 			"Aaron",
 			"Nhyte",
 			"Thorn",
-			"Odria",
 			"Powder",
 			"Glacier",
-			"Icicle",
-			"Un-named",
-			"Skyra",
-			"Night Falcon"
+			"Icicle"
 		],
 
 		"with" : 
@@ -49,13 +45,9 @@
 			"Apple Jack",
 			"Apple Jack",
 			"Apple Jack",
-			"Apple Jack",
 			"Galecia Frostia",
 			"Galecia Frostia",
-			"Galecia Frostia",
-			"Galecia Frostia",
-			"Spitfire Aerocaster",
-			"Night Glider"
+			"Galecia Frostia"
 		],
 
 		"marriedTo" : 

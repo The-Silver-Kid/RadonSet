@@ -1,0 +1,30 @@
+{
+  "type": "Ponii.UnMarriedPonii",
+  "properties": {
+    "Gender": true,
+    "otherBoolean": false,
+    "yaBoolean": false,
+    "state": 0,
+    "kidammount": 0,
+    "name": "Icicle Frostia",
+    "altName": "Icy",
+    "description": "\nRegular\nUnicorn\nSecond Ponii on the Galecia-Radon Line.\nReplaced front left leg with a mechanical one of her own design.\nComputer wizard.\n.WIP",
+    "mother": "Galecia Frostia",
+    "father": "Shadow Radon",
+    "DNA": "Empty",
+    "flag": "\u2022",
+    "additionalInfo": "\nWIP",
+    "imagepath": "null.png",
+    "altimagepath": "null.png",
+    "colour": "Pale Green",
+    "anotherColour": "WIP",
+    "dna": {
+      "full": "Empty"
+    },
+    "birthday": {
+      "year": 2016,
+      "month": 10,
+      "date": 28
+    }
+  }
+}

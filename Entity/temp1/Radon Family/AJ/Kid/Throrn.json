@@ -1,0 +1,34 @@
+{
+	"type" : "Ponii.UnMarriedPonii",
+	"properties" : 
+	{
+		"Gender" : true,
+		"otherBoolean" : false,
+		"yaBoolean" : false,
+		"state" : 0,
+		"kidammount" : 0,
+		"name" : "Thorn Radon",
+		"altName" : "Thorn",
+		"description" : "\nRegular\nUnicorn\nSixth Ponii on the AJ-Radon Line.\n.WIP",
+		"mother" : "Apple Jack Radon",
+		"father" : "Shadow Radon",
+		"DNA" : "Empty",
+		"flag" : "",
+		"additionalInfo" : "\nWIP",
+		"imagepath" : "null.png",
+		"altimagepath" : "null.png",
+		"colour" : "WIP",
+		"anotherColour" : "WIP",
+		"dna" : 
+		{
+			"full" : "Empty"
+		},
+
+		"birthday" : 
+		{
+			"year" : 2018,
+			"month" : 1,
+			"date" : 20
+		}
+	}
+}

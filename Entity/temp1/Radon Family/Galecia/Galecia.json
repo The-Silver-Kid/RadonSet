@@ -6,10 +6,10 @@
 		"otherBoolean" : false,
 		"yaBoolean" : false,
 		"state" : 0,
-		"kidammount" : 4,
+		"kidammount" : 3,
 		"name" : "Galecia Frostia",
 		"altName" : "Galecia",
-		"description" : "\nRegular\nUnicorn\nIt's Complicated.\nLikes the cold",
+		"description" : "\nRegular\nUnicorn\nDead\nWIP",
 		"mother" : "Krystla Frostia",
 		"father" : "Starliner",
 		"DNA" : "Empty",
@@ -28,8 +28,7 @@
 		[
 			"Powder",
 			"Icicle",
-			"Glacier",
-			"Unnamed"
+			"Glacier"
 		],
 
 		"marriedTo" : 

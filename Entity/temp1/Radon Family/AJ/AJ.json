@@ -5,10 +5,10 @@
     "otherBoolean": false,
     "yaBoolean": false,
     "state": 0,
-    "kidammount": 7,
+    "kidammount": 6,
     "name": "Apple Jack Radon",
     "altName": "AJ",
-    "description": "\nRegular\nEarth\nIts Apple Jack... y'all know her",
+    "description": "\nRegular\nEarth\nDead\nIts Apple Jack... y'all know her",
     "mother": "?",
     "father": "?",
     "DNA": "Empty",
@@ -27,8 +27,7 @@
       "Rhyne",
       "Aaron",
       "Nhyte",
-      "Thorn",
-      "Odria"
+      "Thorn"
     ],
     "marriedTo": [
       "Shadow Radon"
