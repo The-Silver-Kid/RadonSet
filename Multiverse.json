@@ -1,4 +1,13 @@
 {
+  "setName": "Radon Set",
+  "title": "radSet",
+  "w": 1400,
+  "h": 700,
+  "background": {
+    "red": 0,
+	"green": 0,
+	"blue": 0
+  },
   "aList": [
     "Main",
 	"temp1",

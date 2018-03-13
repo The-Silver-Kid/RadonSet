@@ -1,6 +1,18 @@
 {
-  "name":     "Main",
-  "title": "0",
+  "name":     "main",
+  "title": "Main",
+   "x": 100,
+  "y": 300,
+  "colour": {
+    "red": 0,
+	"green": 128,
+	"blue": 255
+  },
+  "offset": {
+    "offset": 13,
+    "xC": 0,
+    "yC": 0
+  },
   "eList": [
     "Main/Darkstar Family/Cadence/Kid/Aerial",
     "Main/Singles/Krystla",
@@ -47,8 +59,5 @@
     "Main/Singles/Byte",
     "Main/Unknown/Banshee",
     "Main/RedHeart Family/RedHeart"
-  ],
-  "offset": {
-    "offset": 13
-  }
+  ]
 }

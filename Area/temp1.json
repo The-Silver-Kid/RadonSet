@@ -1,6 +1,18 @@
 {
-  "name": "temp1",
+  "name": "unammed",
   "title": "Unknown",
+   "x": 0,
+  "y": 300,
+  "colour": {
+    "red": 64,
+	"green": 0,
+	"blue": 0
+  },
+  "offset": {
+    "offset": 13,
+    "xC": -1,
+    "yC": 0
+  },
   "eList": [
     "temp1/Radon Family/Galecia/Kid/Icicle",
     "temp1/Radon Family/AJ/Kid/Aaron",
@@ -13,8 +25,5 @@
     "temp1/Radon Family/AJ/AJ",
     "temp1/Radon Family/Galecia/Galecia",
     "temp1/Radon Family/AJ/Kid/Nhyte"
-  ],
-  "offset": {
-    "offset": 13
-  }
+  ]
 }

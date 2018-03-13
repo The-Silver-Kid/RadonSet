@@ -1,6 +1,18 @@
 {
-  "name": "War",
-  "title": "1",
+  "name": "war",
+  "title": "War",
+   "x": 200,
+  "y": 300,
+  "colour": {
+    "red": 255,
+	"green": 0,
+	"blue": 0
+  },
+  "offset": {
+    "offset": 13,
+    "xC": 1,
+    "yC": 0
+  },
   "eList": [
     "War/Radon Family/AJ/Kid/Rhyne",
     "War/Orange Family/Orange",
@@ -14,8 +26,5 @@
     "War/Radon Family/RedHeart/RedHeart",
     "War/Radon Family/AJ/Kid/Jack"
 
-  ],
-  "offset": {
-    "offset": 13
-  }
+  ]
 }
